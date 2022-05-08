@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//testeadad
 public class DestroyOutOfBounds : MonoBehaviour
 {
     private float topBound = 30f;
